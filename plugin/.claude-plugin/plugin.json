@@ -1,0 +1,14 @@
+{
+  "name": "ctx",
+  "displayName": "DXH Context Manager",
+  "version": "2.0.0",
+  "description": "Tool-agnostic context kit for coding agents: skills that set up and keep a project's context folder.",
+  "author": {
+    "name": "DX Heroes",
+    "url": "https://dxheroes.io"
+  },
+  "homepage": "https://github.com/DXHeroes/dxh-context-manager-plugin",
+  "repository": "https://github.com/DXHeroes/dxh-context-manager-plugin",
+  "license": "MIT",
+  "keywords": ["context", "agents", "skills", "agents-md"]
+}

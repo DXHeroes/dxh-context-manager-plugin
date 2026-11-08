@@ -1,0 +1,16 @@
+{
+  "name": "dxh-context-manager",
+  "owner": {
+    "name": "DX Heroes",
+    "email": "hello@dxheroes.io"
+  },
+  "description": "DX Heroes context kit for coding agents (Claude Code, Codex, GitHub Copilot).",
+  "plugins": [
+    {
+      "name": "ctx",
+      "source": "./plugin",
+      "description": "Tool-agnostic context kit: skills that set up and keep a project's context folder.",
+      "category": "productivity"
+    }
+  ]
+}
